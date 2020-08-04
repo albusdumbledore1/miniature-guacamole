@@ -1,1 +1,2 @@
-# miniature-guacamole
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
